@@ -123,7 +123,7 @@ flowchart LR
 
 - [Framework-Based vs First-Principles Retrieval Pipelines: Same Problem, Two Build Approaches](../../experiments/README.md#framework-vs-first-principles-retrieval-pipelines)
 
-Read the full case study on [Prompt at Work](https://promptatwork.com/ai-lab/langchain-knowledge-retrieval-reference-build).
+Read the full case study on [Prompt at Work](https://promptatwork.com/ai-lab/work/langchain-knowledge-retrieval-reference-build).
 
 ---
 

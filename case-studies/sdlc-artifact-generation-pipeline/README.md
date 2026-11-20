@@ -238,7 +238,7 @@ flowchart LR
 - Cross-Document Synthesis Answer Prompt (Grounded RAG Q&A)
 - Schema-Steered Structured Extraction (JSON Without Extra Libraries)
 
-Read the full case study on [Prompt at Work](https://promptatwork.com/ai-lab/sdlc-artifact-generation-pipeline).
+Read the full case study on [Prompt at Work](https://promptatwork.com/ai-lab/work/sdlc-artifact-generation-pipeline).
 
 ---
 

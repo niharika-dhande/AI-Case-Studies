@@ -181,7 +181,7 @@ flowchart LR
 
 - AI-Assisted Systems Engineering: Architecture, Edge-Case and Artifact Review
 
-Read the full case study on [Prompt at Work](https://promptatwork.com/ai-lab/content-driven-business-platform-blueprint).
+Read the full case study on [Prompt at Work](https://promptatwork.com/ai-lab/work/content-driven-business-platform-blueprint).
 
 ---
 

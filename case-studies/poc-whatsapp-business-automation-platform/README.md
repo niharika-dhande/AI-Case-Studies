@@ -196,7 +196,7 @@ flowchart LR
 - Untrusted-Input Boundary Guardrail (Prompt-Injection Defence)
 - Schema-Steered Structured Extraction (JSON Without Extra Libraries)
 
-Read the full case study on [Prompt at Work](https://promptatwork.com/ai-lab/poc-whatsapp-business-automation-platform).
+Read the full case study on [Prompt at Work](https://promptatwork.com/ai-lab/work/poc-whatsapp-business-automation-platform).
 
 ---
 

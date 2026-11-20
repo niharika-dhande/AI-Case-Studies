@@ -344,7 +344,7 @@ flowchart LR
 - Specialist Agent Role Scaffold (Persona, Inputs, Handoff Awareness)
 - Untrusted-Input Boundary Guardrail (Prompt-Injection Defence)
 
-Read the full case study on [Prompt at Work](https://promptatwork.com/ai-lab/ai-executive-command-center).
+Read the full case study on [Prompt at Work](https://promptatwork.com/ai-lab/work/ai-executive-command-center).
 
 ---
 
