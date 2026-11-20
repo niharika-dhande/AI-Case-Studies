@@ -75,7 +75,7 @@ FOOTER = (
 
 def fetch_live() -> dict:
     url = (
-        f"https://{PROJECT_ID}.apicdn.sanity.io/{API_VERSION}/data/query/{DATASET}?"
+        f"https://{PROJECT_ID}.api.sanity.io/{API_VERSION}/data/query/{DATASET}?"
         + urllib.parse.urlencode({"query": QUERY})
     )
     with urllib.request.urlopen(url, timeout=30) as response:
