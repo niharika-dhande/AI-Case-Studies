@@ -14,6 +14,7 @@ Answers grounded in an organisation's own material. Custom ingestion cleans tran
 ## Case studies
 
 - [Automated SDLC Artifact & Technical Specification Generation Pipeline](../case-studies/sdlc-artifact-generation-pipeline/README.md)
+- [AI Enablement: Moving Multi-Domain Teams to an AI-Enabled SDLC](../case-studies/ai-enablement-aidlc-transformation/README.md)
 - [Framework-Based Knowledge Retrieval Pipeline (LangChain Reference Build)](../case-studies/langchain-knowledge-retrieval-reference-build/README.md)
 
 ## Experiments

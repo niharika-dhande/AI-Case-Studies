@@ -13,6 +13,7 @@ Manual, repeatable work turned into pipelines: a design brief becomes print-read
 
 ## Case studies
 
+- [AI Enablement: Moving Multi-Domain Teams to an AI-Enabled SDLC](../case-studies/ai-enablement-aidlc-transformation/README.md)
 - [AI Enterprise Blueprint: Building Content-Driven Business Platforms](../case-studies/content-driven-business-platform-blueprint/README.md)
 - [WhatsApp Business Automation Platform](../case-studies/poc-whatsapp-business-automation-platform/README.md)
 

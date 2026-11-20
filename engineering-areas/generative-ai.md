@@ -13,6 +13,7 @@ Prompts managed as versioned content, schema-steered structured outputs validate
 
 ## Case studies
 
+- [AI Enablement: Moving Multi-Domain Teams to an AI-Enabled SDLC](../case-studies/ai-enablement-aidlc-transformation/README.md)
 - [Framework-Based Knowledge Retrieval Pipeline (LangChain Reference Build)](../case-studies/langchain-knowledge-retrieval-reference-build/README.md)
 
 ## Experiments

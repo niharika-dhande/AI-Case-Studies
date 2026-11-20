@@ -10,6 +10,7 @@ Full write-ups: [promptatwork.com](https://promptatwork.com/ai-lab/work) · [Lin
 |---|---|
 | [AI Executive Command Center](case-studies/ai-executive-command-center/README.md) | Custom Multi-Agent Orchestration · Framework-Free Runtime |
 | [Automated SDLC Artifact & Technical Specification Generation Pipeline](case-studies/sdlc-artifact-generation-pipeline/README.md) | Knowledge Retrieval · SDLC Automation · Framework-Free Pipelines |
+| [AI Enablement: Moving Multi-Domain Teams to an AI-Enabled SDLC](case-studies/ai-enablement-aidlc-transformation/README.md) | AI Enablement · AIDLC Transformation · Enterprise Rollout |
 | [AI Enterprise Blueprint: Building Content-Driven Business Platforms](case-studies/content-driven-business-platform-blueprint/README.md) | Solution Blueprint · Enterprise Web Platforms |
 | [Framework-Based Knowledge Retrieval Pipeline (LangChain Reference Build)](case-studies/langchain-knowledge-retrieval-reference-build/README.md) | Reference Build · RAG · LangChain |
 | [WhatsApp Business Automation Platform](case-studies/poc-whatsapp-business-automation-platform/README.md) | Client POC · Conversational Automation · Multi-Tenant Platform |
@@ -19,10 +20,10 @@ Full write-ups: [promptatwork.com](https://promptatwork.com/ai-lab/work) · [Lin
 | Area | Case studies | Experiments | Automations |
 |---|---|---|---|
 | [Full-Stack AI Engineering](engineering-areas/full-stack-ai.md) | 4 | 1 | 1 |
-| [RAG & Retrieval](engineering-areas/rag-retrieval.md) | 2 | 2 | 0 |
-| [Generative AI Engineering](engineering-areas/generative-ai.md) | 1 | 3 | 2 |
+| [RAG & Retrieval](engineering-areas/rag-retrieval.md) | 3 | 2 | 0 |
+| [Generative AI Engineering](engineering-areas/generative-ai.md) | 2 | 3 | 2 |
 | [Agentic AI](engineering-areas/agentic-ai.md) | 1 | 1 | 0 |
-| [AI Automation & Integrations](engineering-areas/ai-automation.md) | 2 | 2 | 4 |
+| [AI Automation & Integrations](engineering-areas/ai-automation.md) | 3 | 2 | 4 |
 | [Systems, Reliability & Security Engineering](engineering-areas/systems-reliability-security.md) | 3 | 0 | 0 |
 
 ## More
