@@ -22,7 +22,7 @@ from pathlib import Path
 PROJECT_ID = "ck8wyssm"
 DATASET = "production"
 API_VERSION = "v2024-01-01"
-SITE_BASE = "https://promptatwork.com/ai-lab"  # confirm the real route on the site
+SITE_BASE = "https://promptatwork.com/ai-lab/work"
 
 ROOT = Path(__file__).resolve().parent.parent
 GENERATED_DIRS = ["case-studies", "engineering-areas", "patterns", "experiments", "automations"]
