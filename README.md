@@ -1,4 +1,4 @@
-# AI Case Studies · Prompt at Work
+# AI Case Studies · Niharika Dhande
 
 Engineering case studies by **Niharika Dhande**, Generative AI Engineer: multi-agent systems, RAG pipelines, AI automation and the engineering patterns underneath them. Each case study covers the problem, the design decisions and their trade-offs, the architecture and what I learned.
 
