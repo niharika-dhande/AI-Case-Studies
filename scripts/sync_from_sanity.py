@@ -257,7 +257,7 @@ def build_root(data: dict) -> str:
     lines = [
         "# AI Case Studies · Prompt at Work",
         "",
-        "Engineering case studies by **Niharika Dhande**, Generative AI Engineer: multi-agent systems, "
+        "Engineering case studies by **Niharika Dhande**, AI Solutions Engineer: multi-agent systems, "
         "RAG pipelines, AI automation and the engineering patterns underneath them. "
         "Each case study covers the problem, the design decisions and their trade-offs, the architecture "
         "and what I learned.",
