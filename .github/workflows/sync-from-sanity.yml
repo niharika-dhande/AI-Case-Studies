@@ -1,0 +1,29 @@
+name: Sync case studies from Sanity
+
+on:
+  workflow_dispatch:            # run by hand from the Actions tab
+  repository_dispatch:          # fired by a Sanity webhook when content is published
+    types: [sanity-publish]
+  schedule:
+    - cron: "30 1 * * *"        # daily safety net, 07:00 IST
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Regenerate Markdown from Sanity
+        run: python scripts/sync_from_sanity.py
+      - name: Commit changes, if any
+        run: |
+          git config user.name "case-study-sync"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Sync case studies from Sanity"
+          git push
